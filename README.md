@@ -272,9 +272,9 @@ Zeplin acts as a source of truth for development to implement in a connected spa
 
 ## Getting Access to Zeplin
 
-1. Send request to Zeplin Admin(s).
+1. Create a [**Zeplin account**](https://app.zeplin.io/register) with your work email (@wish or @contextlogic). 
 
-2. Create a [**Zeplin account**](https://app.zeplin.io/register) with your work email. 
+2. Send request to Zeplin Admin(s) via Slack #zeplin. Send us your user id, name and title
 
 3. Download Zeplin ↓
 
@@ -472,9 +472,6 @@ When you export your artboards with links to Zeplin, these links will be clickab
 ## Integrations 
 
 ### Integration with Slack ([read more](https://support.zeplin.io/zeplin-101/keep-up-to-date-on-your-projects-with-the-slack-integration))
-
-### Integration with Trello ([read more](https://support.zeplin.io/zeplin-101/enabling-the-zeplin-power-up-on-trello))
-The Zeplin Power-up on Trello lets you attach your projects, screens and tags to Trello cards, to preview and quickly access them. You can also paste Zeplin links directly to comments, card descriptions and they’ll be infinitely more meaningful.
 
 
 ## Q / A 
